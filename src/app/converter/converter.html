@@ -1,0 +1,27 @@
+<div class="container">
+  
+    <h1>Temperature  Converter</h1>
+    
+    <hr />
+
+    <label for="c">Celsius (°C):</label>
+    <input
+      id="c"
+      type="number"
+     
+      [(ngModel)]="celcius"
+      (ngModelChange)="toFahrenheit()"
+    />
+    <p>Fahrenheit: {{cToF}}</p>
+    <hr />
+
+    <label for="f">Fahrenheit (F):</label>
+    <input
+      id="f"
+      type="number"
+   
+      [(ngModel)]="fahrenheit"
+      (ngModelChange)="toCelcius()"
+    />
+    <p>Celcius: {{fToC}}</p>
+  </div>
