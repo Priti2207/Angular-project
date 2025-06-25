@@ -6,7 +6,8 @@ A simple Angular application to convert temperatures between **Celsius** and **F
 
 ## 📸 Preview
 
-![image Alt]https://github.com/Priti2207/Angular-project/blob/0998a2754df3f42a5f6c82491072b4d03db98e2b/Screenshot%202025-06-25%20203609.png)
+
+![image Alt](Screenshot 2025-06-25 203609.png)
 ---
 
 ## 🛠️ Features
